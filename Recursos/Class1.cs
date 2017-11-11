@@ -8,5 +8,6 @@ namespace Recursos
 {
     public class Class1
     {
+        // Prueba de archivos de recursos
     }
 }
